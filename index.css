@@ -1,0 +1,24 @@
+
+#idnome{
+    width: 100px;
+    height: 20px;
+}
+
+#idbotao{
+    background-color: black;
+    color: white;
+}
+
+h1{
+    color: red;
+}
+
+p{
+    font-weight: bold;
+}
+
+img{
+    width: 600px;
+    height: 400px;
+
+}
