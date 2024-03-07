@@ -9,4 +9,4 @@ Tarefas realizadas:
 - [x] Criação e revisão CSS
 - [x] Hospedagem do site 
 
-[Link da atividade realizada:](https://github.com/luisaRochaa/Atividade-git)
+[Link da atividade realizada:](https://luisarochaa.github.io/Atividade-git/)
